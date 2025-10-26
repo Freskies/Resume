@@ -1,14 +1,15 @@
 # **Giacchini Valerio**
 
-📍 Italy | 📞 +39 334 725 1873 | ✉️ freskies.bico.apo@gmail.com | [GitHub](#)
+📍 Italy | 📞 +39 334 725 1873 | ✉️ freskies.bico.apo@gmail.com | [GitHub](#https://github.com/Freskies)
 
 ---
 
 ## 🧠 **About Me**
 
-Detail-oriented developer with a flexible mindset.  
-I adapt quickly to different languages and needs, but mainly work with **JavaScript** and **Python**.  
-People skills shaped by years as a **coach** and **bartender**.
+Organized and detail-oriented developer with a strong ability to adapt to new languages and frameworks.  
+I have experience in both **object-oriented** and **functional programming**, and I currently work mainly with **JavaScript** and **Python**.  
+I’m comfortable using **typed languages** or those requiring **manual memory management**, such as **C**.  
+My background as a **parkour coach** and **bartender** has shaped my ability to work well with people, stay calm under pressure, and communicate effectively in dynamic environments.
 
 ---
 
@@ -37,17 +38,29 @@ People skills shaped by years as a **coach** and **bartender**.
 
 ## ⚙️ **Skills**
 
+### **Certifications**
+- **Full-Stack Developer** - Epicode (2025)
+
 ### **Technical Skills / Competences**
 - **Frontend:** JavaScript, React, HTML, CSS, Tailwind, Bootstrap  
 - **Backend:** Java (Spring), Node.js  
 - **Databases:** PostgreSQL, MySQL  
-- **Tools & Others:** Git, GitHub, REST APIs, JSON, Linux
+- **Tools & Others:** Git, GitHub, REST APIs, JSON, Agile Methodologies
+
+### **Soft Skills**
+- Problem-Solving
+- Adaptability
+- Organizational Skills
+
+---
+
+## **Additional Information**
 
 ### **Languages**
-- **Italian:** Native  
+- **Italian:** Native
 - **English:** Intermediate (B2)
 
-### **Other**
+### **Availability**
 - **Driving License:** Category B  
 - **Vehicle:** Yes (own car)
 
