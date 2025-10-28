@@ -60,5 +60,3 @@ My background as a **parkour coach** and **bartender** has shaped my ability to 
 ### **Availability**
 - **Driving License:** Category B  
 - **Vehicle:** Yes (own car)
-
----
