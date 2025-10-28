@@ -35,7 +35,7 @@ My background as a **parkour coach** and **bartender** has shaped my ability to 
 - Styling with **plain CSS**, **Bootstrap**, and **Tailwind**
 - Backend with **Java (Spring Framework)**
 
-### **ITIS Nullo Baldini** 
+### **ITIS Nullo Baldini** (Diploma in Computer Science)
 - Programming in **Python**, **Pascal**, **C**, **Java**, **PHP**, **SQL**
 
 ---
