@@ -4,7 +4,7 @@
 
 ---
 
-## 🧠 **About Me**
+## **About Me**
 
 Organized and detail-oriented developer with a strong ability to adapt to new languages and frameworks.  
 I have experience in both **object-oriented** and **functional programming**.
@@ -13,7 +13,7 @@ My background as a **parkour coach** and **bartender** has shaped my ability to 
 
 ---
 
-## ⚙️ **Skills**
+## **Skills**
 
 ### **Technical Skills / Competences**
 - **Frontend:** JavaScript, React, HTML, CSS, Tailwind, Bootstrap
@@ -28,7 +28,7 @@ My background as a **parkour coach** and **bartender** has shaped my ability to 
 
 ---
 
-## 🎓 **Education & Certifications**
+## **Education & Certifications**
 
 ### **Epicode Full Stack Course**
 - Frontend with **JavaScript** and **React**
@@ -40,7 +40,7 @@ My background as a **parkour coach** and **bartender** has shaped my ability to 
 
 ---
 
-## 🏃‍♂️ **Extracurricular**
+## **Extracurricular**
 
 ### **Shine ASD**
 - **Parkour Coach**  
